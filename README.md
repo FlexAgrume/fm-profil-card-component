@@ -8,6 +8,12 @@ Thanks to Frontend Mentor for this front-end coding challenge.
 
 The challenge was to build out a profile card component and get it looking as close to the design provided as possible.
 
-I could use any tools I want to help me complete the challenge
+The provided design is located in the **design** folder.
+
+I could use any tools I want to help me complete the challenge.
 
 **To do this challenge, I just needed use HTML and CSS.**
+
+## Solution
+
+https://www.frontendmentor.io/solutions/profile-card-component-WMGQ1G5rK
