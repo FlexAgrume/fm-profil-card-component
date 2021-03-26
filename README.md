@@ -6,7 +6,7 @@ Thanks to Frontend Mentor for this front-end coding challenge.
 
 ## The challenge
 
-The challenge was to build out this profile card component and get it looking as close to the design as possible.
+The challenge was to build out a profile card component and get it looking as close to the design provided as possible.
 
 I could use any tools I want to help me complete the challenge
 
